@@ -75,10 +75,10 @@ VITE_API_URL=http://localhost:4000
 - Sequential enforcement is via the UI (open next lecture from course view), but can be strengthened by adding checks server-side if required.
 
 ## Bonus (Optional Extensions)
-- Uploads: Add endpoint to receive file uploads for lecture content (e.g., images or PDFs) and serve them statically.
-- Search: Add query filters to GET /api/courses (e.g., `?q=...`).
+- Uploads: Added endpoint to receive file uploads for lecture content (e.g., images or PDFs) and serve them statically.
+- Search: Added query filters to GET /api/courses (e.g., `?q=...`).
 - Responsive: Frontend is responsive with simple CSS grid/cards; can be enhanced via a CSS framework.
 
 ## Submission
-- Initialize a git repo in this directory and commit regularly.
-- Push to a public Git repository (GitHub/GitLab) and submit the link.
+- Initialized a git repo in this directory and commit regularly.
+- Pushed to a public Git repository (GitHub).
